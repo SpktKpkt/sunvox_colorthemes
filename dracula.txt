@@ -1,0 +1,11 @@
+theme 
+c_0 #282a36
+c_1 #282a36
+c_2 #6272a4
+c_3 #f8f8f2
+c_red #ff5555
+c_green #50fa7b
+c_blue #8be9fd
+c_alt #f1fa8c
+c_pateditor_ln #f8f8f2
+c_pateditor_white #6272a4
