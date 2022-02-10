@@ -4,7 +4,7 @@ Color themes for [Sunvox](https://warmplace.ru/soft/sunvox/).
 
 ### Usage
 
-Just add the lines from the individual *[name].txt* file to your `sunvox_config.ini`.
+Just add the lines from the individual [name].txt file to your `sunvox_config.ini`.
 
 ### License
 
