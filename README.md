@@ -2,10 +2,10 @@
 
 Color themes for [Sunvox](https://warmplace.ru/soft/sunvox/).
 
-## Usage
+### Usage
 
 Just add the lines from the individual *[name].txt* file to your `sunvox_config.ini`.
 
-## License
+### License
 
 CC0, Public Domain
